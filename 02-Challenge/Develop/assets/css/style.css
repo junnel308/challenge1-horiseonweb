@@ -61,7 +61,7 @@ main {
     margin-left: 20px;
 }
 
-main article {
+.content-info {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -70,7 +70,7 @@ main article {
     color: #ffffff;
 }
 
-main article img {
+.content-info img {
     max-height: 200px;
 }
 
@@ -129,6 +129,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+h4 {
     font-size: 20px;
 }
