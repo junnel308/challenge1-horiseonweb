@@ -56,8 +56,11 @@ figure img {
     height: 1000px;
     width: 100%;
     margin-bottom: 25px;
+    overflow: hidden;
+    justify-content: center;
     background-size: cover;
     background-position: center;
+    
 }
 
 /*Element Selector*/
